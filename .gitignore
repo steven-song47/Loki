@@ -1,0 +1,6 @@
+.DS_store
+.idea/
+test/
+info.log
+venv/
+migrations/
